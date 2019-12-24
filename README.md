@@ -8,6 +8,10 @@ Crawler https://github.com/QueenieCplusplus/Backend_Script2/blob/master/Crawler.
 Http Response
 https://github.com/QueenieCplusplus/Backend_Script2/blob/master/Response.php
 
+Get Model
+https://github.com/QueenieCplusplus/Backend_Script2/blob/master/CI_Model.php
+
+
 
 
 
