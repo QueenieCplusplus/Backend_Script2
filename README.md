@@ -16,6 +16,9 @@ https://github.com/QueenieCplusplus/Backend_Script2/tree/master/BackEnd-master
 Http Response
 https://github.com/QueenieCplusplus/Backend_Script2/blob/master/Response.php
 
+Model Module
+https://github.com/QueenieCplusplus/Backend_Script2/tree/master/Model_Codelgniter.php-master
+
 Get Model
 https://github.com/QueenieCplusplus/Backend_Script2/blob/master/CI_Model.php
 
