@@ -1,5 +1,11 @@
 # Php Session
 
+# Cookies
+
+大部分網站使用 cookie 紀錄登入狀態，網站檢查登入資訊後，將它儲存於瀏覽器的記憶體內稱為 cookies 中，它通常儲存目標伺服器產生的標識、逾時、追蹤資訊。
+
+網站使用 cookie 作為登入的憑證， SESSION_ID 會議識別符 = cookie 。
+
 # Session
 
 Global Variable using Session to render on HTML Form
